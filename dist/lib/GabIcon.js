@@ -5,7 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var createIcon_1 = __importDefault(require("./hocs/createIcon"));
 var GabIcon = createIcon_1.default({
-    color: '#00d178',
+    color: '#ffffff',
     networkName: 'gab',
     bgStyle: {
         strokeWidth: 29.49244,

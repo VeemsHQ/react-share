@@ -1,7 +1,7 @@
 import createIcon from './hocs/createIcon';
 
 const GabIcon = createIcon({
-  color: '#00d178',
+  color: '#ffffff',
   networkName: 'gab',
   bgStyle: {
     strokeWidth: 29.49244,
