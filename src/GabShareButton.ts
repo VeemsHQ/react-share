@@ -2,7 +2,6 @@ import assert from './utils/assert';
 import objectToGetParams from './utils/objectToGetParams';
 import createShareButton from './hocs/createShareButton';
 
-
 function gabLink(url: string, { title }: { title?: string }) {
   assert(url, 'gab.url');
 
