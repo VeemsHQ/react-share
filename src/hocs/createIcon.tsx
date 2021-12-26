@@ -10,6 +10,7 @@ type Props = Omit<React.SVGProps<SVGSVGElement>, 'width' | 'height'> & {
 
 type IconConfig = {
   color: string;
+  bgStyle?: React.CSSProperties;
   networkName: string;
   /** SVG path */
   path: string;
